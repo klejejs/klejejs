@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**klejejs/klejejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br /><br /><br />
+<div style="font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif; font-weight: bold; text-align: center;">
+  <div style="font-size: 3rem;">
+    > Hey!👋🏻 I am Krisjanis Lejejs!
+  </div>
+  <br />
+  <div style="color: #059688; font-size: 2rem;">
+    Bachelor student of IT leadership in Riga Business School
+  </div>
+  <div style="font-size: 2rem;">
+    ...
+  </div>
+  <br />
+  <div><a href="Riga">Riga</a> - born & raised in Latvia. Currently living there.</div>
+  <br />
+</div>
