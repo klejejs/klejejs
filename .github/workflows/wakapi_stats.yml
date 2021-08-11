@@ -1,19 +1,18 @@
 name: WakAPI Stats
 on:
-  schedule: [{cron: "0 * * * *"}] # at every hour
+  schedule: [{cron: "0 0 * * *"}] # every day at midnight
   workflow_dispatch:
-  push: {branches: ["main"]}
 jobs:
   wakapi-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: wakapi.languages.status.svg
+          filename: wakapi.languages.status.30.days.svg
           token: ${{ secrets.GIT_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKAPI_TOKEN }}
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 30
           plugin_wakatime_sections: time, languages, languages-graphs
           plugin_wakatime_limit: 0
           plugin_wakatime_url: ${{ secrets.WAKAPI_URL }}
