@@ -9,6 +9,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: wakapi.languages.status.svg
+          token: ${{ secrets.GIT_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKAPI_TOKEN }}
           plugin_wakatime_days: 365
