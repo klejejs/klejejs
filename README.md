@@ -4,7 +4,7 @@
 ## Bachelor student @Riga_Business_School, developer @Accenture
 - 🔭 I’m currently working on frontend and some backend
 - 🌱 I’m currently learning IT management
-- ⚡ Fun fact: My interests in include managing Smart Home and Self Hosting stuff
+- ⚡ Fun fact: My interests include managing Smart Home and self hosting stuff
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=klejejs&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=Github%20Stats) -->
 
