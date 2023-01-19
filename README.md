@@ -17,6 +17,7 @@
 
 <br />
 
+<!--
 ---
 
 ### Some of my coding activity from self hosted [Wakapi](https://github.com/muety/wakapi) instance:
@@ -25,3 +26,5 @@
 ![Wakapi last 12 months stats](https://github-readme-stats.vercel.app/api/wakatime?username=krisjanis2000&api_domain=wakapi.lejejs.com&range=last_12_months&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Last%2012%20Months&layout=compact&langs_count=20)
 
 ![Wakapi overall stats](https://github-readme-stats.vercel.app/api/wakatime?username=krisjanis2000&api_domain=wakapi.lejejs.com&range=any&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Overall%20Stats&layout=compact&langs_count=20)
+
+-->
