@@ -1,7 +1,7 @@
 ### > Hey!👋🏻 I am Krisjanis!
 [![Website](https://img.shields.io/website?label=krisjanis.lejejs.com&style=for-the-badge&url=https%3A%2F%2Fkrisjanis.lejejs.com)](https://krisjanis.lejejs.com)
 
-## Bachelor student @Riga_Business_School, developer @Accenture
+## Masters student @University_of_Latvia, developer @Accenture
 - 🔭 I’m currently working on frontend and some backend
 - 🌱 I’m currently learning IT management
 - ⚡ Fun fact: My interests include managing Smart Home and self hosting stuff
