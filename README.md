@@ -9,10 +9,10 @@
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=klejejs&count_private=true&show_icons=true&custom_title=Github%20Stats) -->
 
-### Some of my popular repositories:
+<!-- ### Some of my popular repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klejejs&repo=ha-thermia-heat-pump-integration)](https://github.com/klejejs/ha-thermia-heat-pump-integration)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klejejs&repo=python-thermia-online-api)](https://github.com/klejejs/python-thermia-online-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klejejs&repo=python-thermia-online-api)](https://github.com/klejejs/python-thermia-online-api) -->
 
 ### Find me here:
 
